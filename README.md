@@ -32,7 +32,7 @@ This web application calculates the Body Mass Index (BMI) based on user inputs f
 - The @WebServlet("/calculate") annotation defines the URL pattern (/calculate) that maps to this servlet, making it accessible via the web browser.
 # Result Page:
 - The result page displays the calculated BMI value passed by the servlet.
-# Setting up the Application
+
 # Prerequisites:
 - Java Development Kit (JDK) installed
 - Apache Tomcat server for servlet execution
